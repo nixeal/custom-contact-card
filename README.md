@@ -1,2 +1,2 @@
 # custom-contact-card
-Created with CodeSandbox
+Custom Card for Contacts
